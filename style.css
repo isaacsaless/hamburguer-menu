@@ -13,17 +13,17 @@
 /* Icon 1 */
 
 #nav-icon1, #nav-icon2, #nav-icon3, #nav-icon4 {
-  width: 50px;
-  height: 35px;
+  width: 60px;
+  height: 45px;
   position: relative;
   cursor: pointer;
 }
 
 #nav-icon1 span, #nav-icon3 span, #nav-icon4 span {
   position: absolute;
-  height: 9px;
+  height: 7px;
   width: 100%;
-  background: #000;
+  background: #3d3d3d;
   border-radius: 9px;
   left: 0;
   transition: .25s ease-in-out;
